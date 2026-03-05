@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual env
+.venv/
+
+# Local data and large artifacts
+/data/raw/
+/data/processed/
+/data/splits/
+/artifacts/models/
+/artifacts/reports/
+
+# macOS
+.DS_Store
